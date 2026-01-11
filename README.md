@@ -25,7 +25,6 @@ This project focuses on **analyzing employee data and predicting whether an empl
 
 ---
 
----
 
 ## 🔍 Workflow
 1. Data loading and understanding  
